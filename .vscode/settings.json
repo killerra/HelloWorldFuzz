@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "cstdint": "cpp",
+        "stacktrace": "cpp",
+        "iostream": "cpp",
+        "*.list": "c",
+        "*.inc": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
