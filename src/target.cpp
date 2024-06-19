@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
         return EXIT_FAILURE;
     }
     //}
-    cout << "Reading from " << vpkPath << endl;
+    cout << "Reading from " << argv[0]cd << endl;
 
     // retrieve cmdline
     auto cmdline = get_cmdline();
