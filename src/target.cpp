@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
         return EXIT_FAILURE;
     }
     //}
-    cout << "Reading from " << argv[0]cd << endl;
+    cout << "Reading from " << argv[0] << endl;
 
     // retrieve cmdline
     auto cmdline = get_cmdline();
